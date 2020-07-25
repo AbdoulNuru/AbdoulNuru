@@ -6,5 +6,4 @@
 - 🤔 I’m looking for help with socket.io
 - 💬 Ask me about anything related to tech, I will be happy to help.
 - 📫 How to reach me: abdoulniyigena@gmail.com
-- 😄 Pronouns: we/us✌
 - ⚡ Fun fact: Still looking for one😅 
