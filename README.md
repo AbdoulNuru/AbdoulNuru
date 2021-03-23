@@ -16,4 +16,4 @@ I am a full stack software engineer, always building stuffs and learning new thi
 
 📈 My GitHub Stats:
 
-[![AbdoulNuru's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdoulNuru)](https://github.com/anuraghazra/github-readme-stats) <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdoulNuru&layout=compact"/>
+[![AbdoulNuru's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdoulNuru)](https://github.com/anuraghazra/github-readme-stats) <img height="192em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdoulNuru&layout=compact"/>
