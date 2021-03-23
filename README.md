@@ -15,7 +15,8 @@ I am a full stack software engineer, always building stuffs and learning new thi
 
 📊 What I have spent this week on:
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=AbdoulNuru"/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 📈 My GitHub Stats:
 
