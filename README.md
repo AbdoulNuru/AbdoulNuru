@@ -12,7 +12,7 @@ I am a full stack software engineer, always building stuffs and learning new thi
 
 📊 What I have spent this week on:
 
-[![Weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=AbdoulNuru)](https://github.com/AbdoulNuru/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=AbdoulNuru"/>
 
 📈 My GitHub Stats:
 
