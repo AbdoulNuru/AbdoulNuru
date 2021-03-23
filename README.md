@@ -16,6 +16,9 @@ I am a full stack software engineer, always building stuffs and learning new thi
 📊 What I have spent this week on:
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 📈 My GitHub Stats:
