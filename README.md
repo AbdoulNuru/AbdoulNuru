@@ -2,7 +2,7 @@
 
 I am a full stack software engineer, always building stuffs and learning new things, ready to collaborate on new cool projects.
 
-<img align="right" src="https://raw.githubusercontent.com/Gapur/Gapur/master/coding.gif" alt="alt text" width="400" height="350" margin-left="150">
+<img align="right" src="https://raw.githubusercontent.com/Gapur/Gapur/master/coding.gif" alt="alt text" width="400" height="250" margin-left="150">
 
 - 👨🏻‍💻 I’m currently working on a platform linking farmers of all scales to potential investors.
 - 🚀 I’m currently learning Data Structures and Algorithms and socket io.              
