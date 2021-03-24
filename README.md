@@ -17,7 +17,11 @@ I am a full stack software engineer, always building stuffs and learning new thi
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   58 mins         █████████████▒░░░░░░░░░░░   53.26 % 
+SQL          27 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.17 % 
+CSS          10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+HTML         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+JSON         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 ```
 <!--END_SECTION:waka-->
 
