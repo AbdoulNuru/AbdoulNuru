@@ -17,11 +17,11 @@ I am a full stack software engineer, always building stuffs and learning new thi
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   8 hrs 35 mins   ███████████████▒░░░░░░░░░   61.00 % 
-SQL          3 hrs 1 min     █████▒░░░░░░░░░░░░░░░░░░░   21.45 % 
-HTML         1 hr 59 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Markdown     26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+JavaScript   3 hrs 3 mins    ███████████▒░░░░░░░░░░░░░   45.84 % 
+HTML         1 hr 59 mins    ███████▒░░░░░░░░░░░░░░░░░   29.77 % 
+SQL          1 hr 9 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.34 % 
+Markdown     25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 ```
 <!--END_SECTION:waka-->
 
