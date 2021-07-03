@@ -1,4 +1,4 @@
-### Hi there, I'm Abdoul 👋
+### Hi there, I'm Abdoul 👋  
 
 I am a full stack software engineer, always building stuffs and learning new things, ready to collaborate on new cool projects.
 
