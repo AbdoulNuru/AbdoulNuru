@@ -1,28 +1,8 @@
-### Hi there, I'm Abdoul 👋  
+### Hi there👋, I'm Abdoul
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://abdoulnuru.github.io/portfolio/)  [![Linkedin Badge](https://img.shields.io/badge/-Abdoul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdou-nuru-niyigena/)](https://www.linkedin.com/in/abdou-nuru-niyigena/)  [![Twitter Badge](https://img.shields.io/badge/-@nuru_abdoul-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nuru_abdoul)](https://twitter.com/nuru_abdoul)
 
-I am a full stack software engineer, always building stuffs and learning new things, ready to collaborate on new cool projects.
-
-<img align="right" src="https://raw.githubusercontent.com/Gapur/Gapur/master/coding.gif" alt="alt text" width="400" height="270">
-
-- 👨🏻‍💻 I’m currently working on a platform linking farmers of all scales to potential investors.
-- 🚀 I’m currently learning Data Structures and Algorithms and socket io.              
-- 💬 Ask me about anything, I am happy to help and collaborate on projects.
-- 📫 How to reach me: abdoulniyigena@gmail.com
-- 📝 Resume.
+I'm a software engineer, I specialize in web & mobile development.
 
 
 
 
-📊 What I have spent this week on:
-
-<!--START_SECTION:waka-->
-```text
-HTML   54 mins         ██████████████░░░░░░░░░░░   56.35 % 
-CSS    22 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.28 % 
-Text   19 mins         █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
-```
-<!--END_SECTION:waka-->
-
-📈 My GitHub Stats:
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdoulNuru&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdoulNuru&layout=compact)](https://github.com/AbdoulNuru/github-readme-stats)
